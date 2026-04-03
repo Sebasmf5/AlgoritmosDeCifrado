@@ -4,7 +4,7 @@
 *.obj
 *.out
 
-# Carpetas de Debug/Release (si usas Visual Studio o CLion)
+# Carpetas de Debug/Release
 Debug/
 Release/
 x64/
@@ -12,7 +12,6 @@ x86/
 
 # Configuraciones de VS Code
 .vscode/
-# (A veces es bueno subir launch.json, pero por ahora ignóralo todo)
 
 # Archivos temporales del sistema
 .DS_Store
